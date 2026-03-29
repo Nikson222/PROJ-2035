@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"193837c3-282f-46fd-b148-948660fc0f9c\"\n   
+    },\n    \"rs\": {\n      \"key\": \"checkLink\",\n      \"type\": \"string\",\n     
+    \"value\": \"https://minhsphere.com/Dv2SpQgn\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"c4a6e012-aea3-47d7-8d91-5b21fa4fd999\"\n    },\n   
+    \"rs\": {\n      \"key\": \"blackLink\",\n      \"type\": \"string\",\n     
+    \"value\": \"https://minhsphere.com/WWSsLwPq\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"5d950ea5-a426-4ef7-af56-6e5f9abe8675\"\n    },\n   
+    \"rs\": {\n      \"key\": \"oneSignalKey\",\n      \"type\": \"string\",\n     
+    \"value\": \"f2c2490a-c672-4649-9822-6e6890b0a9c6\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"5c317e84-8a3c-4423-a300-c60128ceab22\"\n    },\n   
+    \"rs\": {\n      \"key\": \"appsflyerDevKey\",\n      \"type\": \"string\",\n     
+    \"value\": \"vkHiyFCbkFfbJ77t7FiJ4e\"\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"4c57d441-1497-4c4d-8e25-bc1c512693fa\"\n    },\n    \"rs\": {\n     
+    \"key\": \"appID\",\n      \"type\": \"string\",\n      \"value\": \"id6744387794\"\n   
+    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"4bf4feff-e302-49a2-a13f-29c0d7263bcf\"\n   
+    },\n    \"rs\": {\n      \"key\": \"canOpenBlack\",\n      \"type\": \"bool\",\n     
+    \"value\": false\n    }\n  }\n]"
+  _rsLastCachedKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"193837c3-282f-46fd-b148-948660fc0f9c\"\n   
+    },\n    \"rs\": {\n      \"key\": \"checkLink\",\n      \"type\": \"string\",\n     
+    \"value\": \"https://minhsphere.com/Dv2SpQgn\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"c4a6e012-aea3-47d7-8d91-5b21fa4fd999\"\n    },\n   
+    \"rs\": {\n      \"key\": \"blackLink\",\n      \"type\": \"string\",\n     
+    \"value\": \"https://minhsphere.com/WWSsLwPq\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"5d950ea5-a426-4ef7-af56-6e5f9abe8675\"\n    },\n   
+    \"rs\": {\n      \"key\": \"oneSignalKey\",\n      \"type\": \"string\",\n     
+    \"value\": \"f2c2490a-c672-4649-9822-6e6890b0a9c6\"\n    }\n  },\n  {\n    \"metadata\":
+    {\n      \"entityId\": \"5c317e84-8a3c-4423-a300-c60128ceab22\"\n    },\n   
+    \"rs\": {\n      \"key\": \"appsflyerDevKey\",\n      \"type\": \"string\",\n     
+    \"value\": \"vkHiyFCbkFfbJ77t7FiJ4e\"\n    }\n  },\n  {\n    \"metadata\": {\n     
+    \"entityId\": \"4c57d441-1497-4c4d-8e25-bc1c512693fa\"\n    },\n    \"rs\": {\n     
+    \"key\": \"appID\",\n      \"type\": \"string\",\n      \"value\": \"id6744387794\"\n   
+    }\n  },\n  {\n    \"metadata\": {\n      \"entityId\": \"4bf4feff-e302-49a2-a13f-29c0d7263bcf\"\n   
+    },\n    \"rs\": {\n      \"key\": \"canOpenBlack\",\n      \"type\": \"bool\",\n     
+    \"value\": false\n    }\n  }\n]"
+  _environments: "[\n  {\n    \"projectId\": \"c0c13069-ed04-4db2-9785-6550a1fb5906\",\n   
+    \"name\": \"production\",\n    \"id\": \"bc326540-ef6c-4485-a01b-71922023f6a6\",\n   
+    \"isDefault\": true,\n    \"createdAt\": \"2025-04-08T11:54:04Z\",\n    \"updatedAt\":
+    \"2025-04-08T11:54:04Z\"\n  }\n]"
